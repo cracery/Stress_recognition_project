@@ -1,2 +1,2 @@
-# Stress_recognition_project
+# SLD(Stress level detect)app
 Project of Discovering stress recognition by face and other physical characteristics
