@@ -1,5 +1,5 @@
 # SLD(Stress level detect)app
-Project of Discovering stress recognition by face and other physical characteristics
+Project of Discovering stress recognition by faial expressions
 
 The aim of the project is to detect stress levels by analysing facial expressions to prevent consequences such as overloading, depression, and burning out. 
 Since the modern rhythm of the life often causes overloading and stress, the SLD intelligent assistant was created to prevent the negative consequences of excessive stress.
